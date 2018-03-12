@@ -1,0 +1,12 @@
+_setValue(_password("password"), "bbouzeboudja");
+_setValue(_textbox("username"), "bbouzeboudja");
+_click(_submit("Connexion"));
+_click(_submit("Bilel Bouzeboudja"));
+_click(_link("Tous les rôles ..."));
+_click(_div("modal-backdrop fade in"));
+_click(_link("Reporting"));
+_click(_link("Complétude par période"));
+_click(_bold("Bilel Bouzeboudja"));
+_click(_submit("Déconnexion"));
+_setValue(_textbox("username"), "bouzeboudja");
+_setValue(_password("password"), "bbouzeboudja");
